@@ -18,7 +18,7 @@ ellas viven durante el bootcamp, hemos preparado
 [este video](https://www.loom.com/share/430829fb4e3949daa77824e6a75cbf4c).
 
 El foco central de nuestra currícula es un catálogo de proyectos de complejidad
-gradualmente creciente, y asociados a objetivos de aprendizaje concretos. Tanto
+gradualmente creciente y asociados a objetivos de aprendizaje concretos. Tanto
 la ruta de proyectos elegida como la duración y alcance de cada uno, dependerá
 de las necesidades, intereses y ritmo de aprendizaje de cada estudiante. Esto
 significa que no se espera que todas hagan los mismos proyectos, ni la misma
@@ -75,7 +75,7 @@ ellas y el equipo de Laboratoria.
 * 1 sesión de Q&A sobre el programa. Espacio programado por el equipo de
  Laboratoria para resolver sus dudas sobre la dinámica y en la que no
  participarán aún las estudiantes.
-* 2 sesiones de revisión y feedback de herramientas (1 sesión para el CV y 1 sesión para el LinkedIn)con la primera estudiante
+* 2 sesiones de revisión y feedback de herramientas (1 sesión para el CV y 1 sesión para el LinkedIn) con la primera estudiante
  que te hayamos asignado como mentee. 
   - Sesión 1: _Meet & greet_ + revisión y feedback de CV. Espacio programado por
   el equipo de Laboratoria que se dividirá en 2 momentos:
@@ -118,8 +118,8 @@ documentar feedback para ellas y el equipo de Laboratoria.
  por aplicar a la vacante, como sucede en algunos procesos de reclutamiento
  abiertos.
 
-Pronto este [apartado](../02-tech-mentoring/interviewer-guide/README.md)
-podrás consultar los objetivos alcanzar con la
+Pronto en este [apartado](../02-tech-mentoring/interviewer-guide/README.md)
+podrás consultar los objetivos a alcanzar con la
 simulación y revisión y feedback de su Github profile. Para este apartado
 todavía estamos terminando de definir algunos detalles.
 
@@ -134,11 +134,11 @@ todavía estamos terminando de definir algunos detalles.
 
 * Este es un proyecto individual que las estudiantes irán avanzando en paralelo
  a los otros proyectos del Bootcamp. 
-* Este proyecto a diferencia de los otros que desarrollan durante el bootcamp,
+* Este proyecto, a diferencia de los otros que desarrollan durante el bootcamp,
  tendrá para las estudiantes etapas y un calendario con algunas fechas pre
- establecidas. En lo que se parecen es que las estudiantes contarán con una
+ establecidas. En lo que se parecen, es que las estudiantes contarán con una
  serie de recursos que podrán consultar como guía y que seguirán contando con
  el acompañamiento del equipo a través de ayudantías y feedback a lo largo del
  avance del proyecto. 
 * Es el único proyecto en el que tienen vínculo con personas externas que se
- unen al bootcamp para apoyar tu aprendizaje en el proyecto. 
+ unen al bootcamp para apoyar su aprendizaje en el proyecto. 
