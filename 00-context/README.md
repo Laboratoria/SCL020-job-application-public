@@ -98,7 +98,7 @@ revisión y feedback de herramientas y con la simulación.**
 |                    Actividades                      |   Tipo   | Semana   |               Día/hora              |
 |-----------------------------------------------------|----------|----------|-------------------------------------|
 | Sesión de Q&A sobre el programa.                    |   Fija   |    -     |1 o 9 de junio, 19:00 hrs. (tentativo)|
-| Sesión de Meet & Greet y revisión y feedback de CV. |   Fija   |    -     |17 de junio, 10:00 a 13:00 hrs. (tentativo)|
+| Sesión de Meet & Greet y revisión y feedback de CV. |   Fija   |    -     |17 de junio, 11:00 a 13:00 hrs. (tentativo)|
 | Sesión de revisión y feedback de LinkedIn.          | Abierta  |Del 20 al 24 de junio|          |
 | Envío de formulario de feedback al equipo.          | Fija  |Hasta el 1 de julio     |          |
 | Simulación de entrevista de recursos humanos.       | Abierta  |Del 4 al 15 de julio |          |
