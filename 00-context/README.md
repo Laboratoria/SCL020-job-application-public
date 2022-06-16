@@ -126,8 +126,8 @@ todavía estamos terminando de definir algunos detalles.
 
 |                 Actividades                  |   Tipo   | Semana   | Día/hora |
 |----------------------------------------------|----------|----------|---------:|
-| Sesión de Q&A sobre el programa.             |   Fija   |          |          |
-| Simulación de entrevista técnica.            | Abierta  |          |          |
+| Sesión de Q&A sobre el programa.             |   Fija   |    -     |20 de julio, 18:00 hrs. (tentativo)|
+| Simulación de entrevista técnica.            | Abierta  |Del 25 de julio al 5 de agosto|          |
 | Envío de feedback escrito a estudiante.      | Abierta  |          |          |
 | Envío de formulario de feedback al equipo.   | Abierta  |          |          |
 
